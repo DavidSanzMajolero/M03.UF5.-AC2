@@ -4,7 +4,7 @@
   
 - Raquel Alaman - Bloc de Programació - XML Parsers. https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/xmlparsers
 
-# Código
+# Codi utilitzat
 
 ```csharp
 public static void CreateXMLFileWithLINQ()
