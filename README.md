@@ -2,7 +2,7 @@
 
 - Jordi Sancho. Ajuda per pasar de csv a xml i utilitzar Linq
   
-- Alaman, R. (s.f.). Bloc de Programació - XML Parsers. https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/xmlparsers
+- Raquel Alaman - Bloc de Programació - XML Parsers. https://github.com/RaquelAlamanITB/bloc-programacio/tree/main/m03programacio/uf5/xmlparsers
 
 # Código
 
